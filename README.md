@@ -2,11 +2,6 @@
 
 A simple, single‑page quiz built with HTML, Tailwind CSS and vanilla JavaScript that asks five questions and tells you which famous philosopher your answers align with most.
 
-## 📺 Demo
-
-![Intro screen showing “Which Philosopher Matches You?”](./assets/demo-intro.png)  
-*Click “Start Quiz”, answer five multiple‑choice questions, and see your result!*
-
 ## ✨ Features
 
 - **Single HTML page** – no navigation away from the quiz.  
