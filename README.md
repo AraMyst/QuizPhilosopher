@@ -16,4 +16,3 @@ A simple, single‑page quiz built with HTML, Tailwind CSS and vanilla JavaScrip
 1. **Clone the repo**  
    ```bash
    git clone https://aramyst.github.io/QuizPhilosopher/
-   cd philosopher‑match‑quiz
