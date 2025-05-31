@@ -1,18 +1,28 @@
 # Philosopher Match Quiz
 
-A simple, single‑page quiz built with HTML, Tailwind CSS and vanilla JavaScript that asks five questions and tells you which famous philosopher your answers align with most.
+Discover **which great thinker mirrors your worldview** in less than a minute.
 
-## ✨ Features
+## Demo
 
-- **Single HTML page** – no navigation away from the quiz.  
-- **Tailwind CSS** for rapid, responsive styling.  
-- **External JS module** (`quiz.js`) holds all quiz logic.  
-- **Five multiple‑choice questions** that auto‑score your answers.  
-- **Hidden screens** – intro, questions and results appear only when needed.  
-- **Reset functionality** so you can retake the quiz immediately.  
+Take the quiz right now: [https://aramyst.github.io/QuizPhilosopher/](https://aramyst.github.io/QuizPhilosopher/)
 
-## 🚀 Installation
+## Features
 
-1. **Clone the repo**  
-   ```bash
-   https://aramyst.github.io/QuizPhilosopher/
+|                                        |                                                              |
+| -------------------------------------- | ------------------------------------------------------------ |
+| ⚡ **Instant, single‑page experience**  | No page reloads—everything happens in the browser.           |
+| 💨 **Tailwind CSS styling**            | Rapid, mobile‑first design with minimal markup.              |
+| 🧩 **Vanilla JavaScript module**       | All logic lives in a tidy `quiz.js`.                         |
+| 🗳️ **Five multiple‑choice questions** | Scored in real time as you progress.                         |
+| 🖥️ **Dynamic UI sections**            | Intro, quiz, and results show only when needed.              |
+| 🔄 **One‑click reset**                 | Retake the quiz instantly without refreshing the page.       |
+| 📱 **Responsive layout**               | Works beautifully on phones, tablets, and desktops.          |
+| 🌐 **Zero build step**                 | Pure HTML + JS—just open the file or deploy to GitHub Pages. |
+
+## Tech Stack
+
+| Layer   | Technology                 | Notes                               |
+| ------- | -------------------------- | ----------------------------------- |
+| UI      | **HTML5 & Tailwind CSS**   | CDN version—no bundler required     |
+| Logic   | **ES6 Vanilla JavaScript** | Stored in `quiz.js` as an ES module |
+| Hosting | **GitHub Pages**           | Fast, free static hosting           |
