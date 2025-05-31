@@ -8,7 +8,7 @@ Take the quiz right now: [https://aramyst.github.io/QuizPhilosopher/](https://ar
 
 ## Features
 
-| -------------------------------------- | ------------------------------------------------------------ |
+|                                          |                                                              |
 | ⚡ **Instant, single‑page experience**  | No page reloads—everything happens in the browser.           |
 | 💨 **Tailwind CSS styling**            | Rapid, mobile‑first design with minimal markup.              |
 | 🧩 **Vanilla JavaScript module**       | All logic lives in a tidy `quiz.js`.                         |
